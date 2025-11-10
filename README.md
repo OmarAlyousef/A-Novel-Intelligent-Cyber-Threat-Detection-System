@@ -43,6 +43,5 @@ python main.py
 	•	NLP-generated threat intelligence report
 
  # Useful Link
-
- https://github.com/OmarAlyousef/A-Novel-Intelligent-Cyber-Risk-Detection-System/blob/main/Associated_Data.md
+https://github.com/OmarAlyousef/A-Novel-Intelligent-Cyber-Threat-Detection-System/blob/main/Associated_Data.md
  
