@@ -19,6 +19,7 @@ An intelligent cyber Threat detection framework that combines Artificial Intelli
 # 📊 Dataset
 	•	CTU-IoT-Malware-Capture
     •   CIC-IDS2017
+	•   UNSW-NB15
 
 # ⚙️ How to Run
  <pre>
